@@ -21,6 +21,3 @@ endstone-scrape = "endstone_scraper.cli:main"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/endstone_scraper"]
-
-[tool.uv]
-dev-dependencies = []
